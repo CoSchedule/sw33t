@@ -1,0 +1,23 @@
+{
+	"name": "sw33t",
+	"description": "a mocha framework to sweeten your tests",
+	"version": "0.2.0",
+	"author": "CoSchedule",
+	"homepage": "https://github.com/CoSchedule/sw33t",
+	"bugs": "https://github.com/CoSchedule/sw33t/issues",
+	"keywords": ["mocha", "testing", "assert"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CoSchedule/sw33t.git"
+	},
+	"devDependencies": {
+		"chai": "x"
+	},
+	"dependencies": {
+		"mocha": "x"
+	},
+	"engines": {
+		"node": "0.10.x"
+	},
+	"main": "sw33t"
+}
