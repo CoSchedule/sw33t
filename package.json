@@ -1,7 +1,7 @@
 {
 	"name": "sw33t",
 	"description": "a mocha framework to sweeten your tests",
-	"version": "0.2.0",
+	"version": "1.0.0",
 	"author": "CoSchedule",
 	"homepage": "https://github.com/CoSchedule/sw33t",
 	"bugs": "https://github.com/CoSchedule/sw33t/issues",
@@ -15,9 +15,6 @@
 	},
 	"dependencies": {
 		"mocha": "x"
-	},
-	"engines": {
-		"node": "0.10.x"
 	},
 	"main": "sw33t"
 }
